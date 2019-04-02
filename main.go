@@ -28,6 +28,7 @@ func stringTest() {
 	fmt.Println("-------------------------------------------------")
 	db := db.RedisPool.Get()
 	db.Do("select", 1)
+	defer db.Close()
 	res, err := db.Do("set", "username", "chenliang")
 	fmt.Println(res, err)
 	res, err = redis.String(db.Do("get", "username"))
@@ -58,6 +59,7 @@ HMGET key field [field …]
 func HashTest() {
 	fmt.Println("-------------------------------------------------")
 	db := db.RedisPool.Get()
+	defer db.Close()
 	res, err := db.Do("hset", "users", "name", "tom")
 	fmt.Println("添加", res, err)
 
@@ -78,6 +80,7 @@ func jsonTest() {
 	user := model.User{Id: 0, Name: "tom", Address: "北京", Phone: "110", Sex: 1}
 	bs, _ := json.Marshal(user)
 	db := db.RedisPool.Get()
+	defer db.Close()
 	db.Do("set", "json", string(bs))
 	res, err := redis.String(db.Do("get", "json"))
 	fmt.Println(res, err)
@@ -86,6 +89,7 @@ func jsonTest() {
 func listTest() {
 
 	db := db.RedisPool.Get()
+	defer db.Close()
 	db.Do("del","list")
 	db.Do("lpush", "list", "a1")
 	db.Do("lpush", "list", "a2")
