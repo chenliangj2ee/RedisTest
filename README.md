@@ -1,64 +1,26 @@
 Hello.
 
 Question 1.
-
-
-
-
-
-
-
-Which mouth belongs to Justin Bieber?     
-
-
-
-
-
-
-It's B, are you right?   
-
-
-
-
-
+Which grows faster ?
+B:Hair
+ 
 
 Question 2.
+ Who made the speech “I Have a Dream”?
+   
+
+c:Martin Luther King,Jr.
+
+
+ 
+ Question 3.
+
+
+In which country did yoga originate?
 
 
 
-
-
-
-Which mouth belongs to Dwayne Johnson?    
-
-
-
-
-
-
-
-It's F, are you right?   
-
-
-
-
-
-Question 3.
-
-
-
-
-
-
-Which mouth belongs to Jennifer Aniston?    
-
-
-
-
-
-
-
-It's D, are you right?   
+ b:India
 
 
 
@@ -70,17 +32,12 @@ Question 4.
 
 
 
-
-
-Which mouth belongs to Will Smith?    
-
+Which soft drink company wanted to “Teach the world to Sing” in  1971?
 
 
 
+a:Coca-Cola
 
-
-
-It's B, are you right?   
 
 
 
@@ -91,20 +48,11 @@ Question 5.
 
 
 
+What does CPR stand for?
 
 
+b:Cardiopulmonary Resuscitation
 
-
-
-Which mouth belongs to Kristen Bell?    
-
-
-
-
-
-
-
-It's C, are you right?   
 
 
 
@@ -117,16 +65,14 @@ Question 6.
 
 
 
-
-Which mouth belongs to Johnny Depp?    
-
+What is the only food that can last forever?
 
 
 
 
 
 
-It's C, are you right?   
+a:Honey
 
 
 
@@ -138,18 +84,13 @@ Question 7.
 
 
 
-
-
-
-Which mouth belongs to Kevin Hart ?    
-
+Where in your body is your thyroid gland?
 
 
 
 
 
-
-It's C, are you right?   
+a:Neck
 
 
 
@@ -160,18 +101,13 @@ Question 8.
 
 
 
-
-
-
-Which mouth belongs to Zendaya?    
-
+Which river crosses the most countries?
 
 
 
 
 
-
-It's B, are you right?   
+b:The Danube 
 
 
 
@@ -186,16 +122,14 @@ Question 9.
 
 
 
-
-Which mouth belongs to Kim Kardashian?    
-
+What is this animal called?
 
 
 
 
 
+a:Monitor lizard
 
-It's E, are you right?   
 
 
 
@@ -207,17 +141,14 @@ Question 10.
 
 
 
-
-
-Which mouth belongs to Justin Timberlake?    
-
+How often is the football World Cup played?
 
 
 
 
 
+b:Every 4 years
 
-It's D, are you right?   
 
 
 
