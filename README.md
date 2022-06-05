@@ -1,15 +1,18 @@
 Hello.
 
 Question 1.
+
 Which grows faster ?
-B:Hair
+
+A:Hair
  
 
 Question 2.
- Who made the speech “I Have a Dream”?
+
+Who made the speech “I Have a Dream”?
    
 
-c:Martin Luther King,Jr.
+C:Martin Luther King,Jr.
 
 
  
@@ -20,7 +23,7 @@ In which country did yoga originate?
 
 
 
- b:India
+ B:India
 
 
 
@@ -36,7 +39,7 @@ Which soft drink company wanted to “Teach the world to Sing” in  1971?
 
 
 
-a:Coca-Cola
+A:Coca-Cola
 
 
 
@@ -51,7 +54,7 @@ Question 5.
 What does CPR stand for?
 
 
-b:Cardiopulmonary Resuscitation
+B:Cardiopulmonary Resuscitation
 
 
 
@@ -72,7 +75,7 @@ What is the only food that can last forever?
 
 
 
-a:Honey
+A:Honey
 
 
 
@@ -90,7 +93,7 @@ Where in your body is your thyroid gland?
 
 
 
-a:Neck
+A:Neck
 
 
 
@@ -107,7 +110,7 @@ Which river crosses the most countries?
 
 
 
-b:The Danube 
+B:The Danube 
 
 
 
@@ -128,7 +131,7 @@ What is this animal called?
 
 
 
-a:Monitor lizard
+A:Monitor lizard
 
 
 
@@ -147,7 +150,7 @@ How often is the football World Cup played?
 
 
 
-b:Every 4 years
+B:Every 4 years
 
 
 
